@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Paca Dance"
+		},
+		{
+			"offsets": [
+				90,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Paca Left"
+		},
+		{
+			"offsets": [
+				43,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Paca Right"
+		},
+		{
+			"offsets": [
+				-17,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Paca Down"
+		},
+		{
+			"offsets": [
+				49,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Paca Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Alpaca",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "alpaca",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		84
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Order, Order!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"delta2",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cyber",
+			"sweet",
+			[
+				255,
+				200,
+				75
+			]
+		],
+		[
+			"Buster",
+			"virovirokun",
+			[
+				255,
+				60,
+				255
+			]
+		],
+		[
+			"Order",
+			"tasque",
+			[
+				0,
+				60,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7"
+}

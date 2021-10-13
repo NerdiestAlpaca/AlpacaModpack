@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Baphomet Idle",
+	"idle_anim": "M Baphomet Idle",
+	"position": [
+		110,
+		50
+	],
+	"scale": 0.8,
+	"image": "Menu_Baphomet"
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Paca Idle",
+	"idle_anim": "M Paca Idle",
+	"position": [
+		0,
+		-5
+	],
+	"scale": 1,
+	"image": "Menu_Paca"
+}

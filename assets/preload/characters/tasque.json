@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tasque Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tasque Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tasque Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tasque Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tasque Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				-30
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Tasque Whip",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tasquemanager_assets",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "tasque",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		255
+	],
+	"camera_position": [
+		210,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

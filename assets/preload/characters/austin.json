@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Austin Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Austin Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Austin Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Austin Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Austin Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Austin",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "austin",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		157,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

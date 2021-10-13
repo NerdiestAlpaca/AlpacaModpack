@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				-2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rouxls Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-102,
+				1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rouxls Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				37
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rouxls Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-19
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rouxls Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Rouxls idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Rouxls idle dance"
+		},
+		{
+			"offsets": [
+				51,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Rouxls Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Rouxls Sing Note RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				37
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Rouxls Sing Note UP",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RouxlsKaard",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "rouxls",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		11,
+		176
+	],
+	"camera_position": [
+		210,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Trip Idle"
+		},
+		{
+			"offsets": [
+				13,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Trip Left"
+		},
+		{
+			"offsets": [
+				34,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Trip Right"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Trip Down"
+		},
+		{
+			"offsets": [
+				24,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Trip Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trip",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "trip",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		102,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

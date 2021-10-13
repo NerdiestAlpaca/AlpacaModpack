@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M AWOO3 Idle",
+	"idle_anim": "M AWOO3 Idle",
+	"position": [
+		120,
+		-130
+	],
+	"scale": 1.05,
+	"image": "Menu_AWOO3"
+}

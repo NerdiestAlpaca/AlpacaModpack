@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tasquemanager_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tasque Down0000" x="0" y="0" width="550" height="764" frameX="0" frameY="-8" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0001" x="0" y="0" width="550" height="764" frameX="0" frameY="-8" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0002" x="560" y="0" width="532" height="783" frameX="0" frameY="0" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0003" x="560" y="0" width="532" height="783" frameX="0" frameY="0" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0004" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0005" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0006" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0007" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0008" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0009" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0010" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0011" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0012" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Down0013" x="1102" y="0" width="541" height="771" frameX="0" frameY="-4" frameWidth="550" frameHeight="783"/>
+	<SubTexture name="Tasque Idle0000" x="1653" y="0" width="529" height="791" frameX="0" frameY="-4" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0001" x="1653" y="0" width="529" height="791" frameX="0" frameY="-4" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0002" x="2192" y="0" width="528" height="793" frameX="0" frameY="-2" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0003" x="2192" y="0" width="528" height="793" frameX="0" frameY="-2" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0004" x="2730" y="0" width="527" height="797" frameX="0" frameY="-2" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0005" x="2730" y="0" width="527" height="797" frameX="0" frameY="-2" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0006" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0007" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0008" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0009" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0010" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0011" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0012" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Idle0013" x="3267" y="0" width="526" height="799" frameX="0" frameY="0" frameWidth="529" frameHeight="799"/>
+	<SubTexture name="Tasque Left0000" x="0" y="809" width="528" height="787"/>
+	<SubTexture name="Tasque Left0001" x="0" y="809" width="528" height="787"/>
+	<SubTexture name="Tasque Left0002" x="538" y="809" width="518" height="786" frameX="-10" frameY="-1" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0003" x="538" y="809" width="518" height="786" frameX="-10" frameY="-1" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0004" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0005" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0006" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0007" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0008" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0009" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0010" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0011" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0012" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Left0013" x="1066" y="809" width="523" height="787" frameX="-5" frameY="0" frameWidth="528" frameHeight="787"/>
+	<SubTexture name="Tasque Right0000" x="1599" y="809" width="470" height="793" frameX="-2" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0001" x="1599" y="809" width="470" height="793" frameX="-2" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0002" x="2079" y="809" width="475" height="793"/>
+	<SubTexture name="Tasque Right0003" x="2079" y="809" width="475" height="793"/>
+	<SubTexture name="Tasque Right0004" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0005" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0006" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0007" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0008" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0009" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0010" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0011" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0012" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Right0013" x="2564" y="809" width="473" height="793" frameX="-1" frameY="0" frameWidth="475" frameHeight="793"/>
+	<SubTexture name="Tasque Up0000" x="3047" y="809" width="513" height="786"/>
+	<SubTexture name="Tasque Up0001" x="3047" y="809" width="513" height="786"/>
+	<SubTexture name="Tasque Up0002" x="3570" y="809" width="513" height="783" frameX="0" frameY="-1" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0003" x="3570" y="809" width="513" height="783" frameX="0" frameY="-1" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0004" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0005" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0006" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0007" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0008" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0009" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0010" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0011" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0012" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Up0013" x="0" y="1612" width="513" height="785" frameX="0" frameY="0" frameWidth="513" frameHeight="786"/>
+	<SubTexture name="Tasque Whip0000" x="523" y="1612" width="756" height="764" frameX="-165" frameY="0" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0001" x="523" y="1612" width="756" height="764" frameX="-165" frameY="0" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0002" x="1289" y="1612" width="921" height="732" frameX="0" frameY="-31" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0003" x="1289" y="1612" width="921" height="732" frameX="0" frameY="-31" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0004" x="2220" y="1612" width="851" height="743" frameX="-70" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0005" x="3081" y="1612" width="846" height="743" frameX="-75" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0006" x="0" y="2407" width="859" height="743" frameX="-62" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0007" x="0" y="2407" width="859" height="743" frameX="-62" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0008" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0009" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0010" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0011" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0012" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0013" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0014" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0015" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0016" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0017" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0018" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+	<SubTexture name="Tasque Whip0019" x="869" y="2407" width="870" height="743" frameX="-51" frameY="-21" frameWidth="921" frameHeight="764"/>
+</TextureAtlas>

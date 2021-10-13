@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um, excuse me, do you uh..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "know... where we... are..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Oh my god am I talking to a horse)"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "celestia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm?\\nOh hello little one! What brings you\\nto Canterlot?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, that's where we are? Jeez, must've taken a lot more than ONE wrong turn..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, Girlfriend and I were gonna go out for dinner and karaoke but... well we got kinda lost."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...more than kinda lost."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Girlfriend can we still do the karaoke part this horse even has a mic"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go for it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "celestia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'd be delighted to do karaoke with you..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "celestia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...I don't believe I caught your name?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Name's Boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "celestia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, Boyfriend, I would love to do some\\nkaraoke with you. It's been quite a while\\nsince I had the chance to do so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How long?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "celestia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh gosh, a hundred years or so..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT"
+		}
+	]
+}

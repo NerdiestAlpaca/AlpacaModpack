@@ -1,0 +1,43 @@
+{
+	"storyName": "Round 2 at the LPS",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"awoo2",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Free Spirit",
+			"roxie",
+			[
+				255,
+				204,
+				102
+			]
+		],
+		[
+			"Catnap",
+			"jade",
+			[
+				53,
+				145,
+				0
+			]
+		],
+		[
+			"Daredevil",
+			"trip",
+			[
+				255,
+				102,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

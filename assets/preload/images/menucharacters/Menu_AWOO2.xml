@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_AWOO2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M AWOO2 Idle0000" x="0" y="0" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0001" x="0" y="0" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0002" x="386" y="0" width="359" height="193" frameX="-1" frameY="-7" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0003" x="765" y="0" width="359" height="192" frameX="-1" frameY="-7" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0004" x="1144" y="0" width="368" height="199" frameX="-1" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0005" x="1144" y="0" width="368" height="199" frameX="-1" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0006" x="1532" y="0" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0007" x="1532" y="0" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0008" x="1532" y="0" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0009" x="0" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0010" x="0" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0011" x="0" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0012" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0013" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0014" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0015" x="772" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0016" x="772" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0017" x="1158" y="220" width="359" height="193" frameX="-1" frameY="-7" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0018" x="1158" y="220" width="359" height="193" frameX="-1" frameY="-7" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0019" x="1537" y="220" width="368" height="200" frameX="-1" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0020" x="1537" y="220" width="368" height="200" frameX="-1" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0021" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0022" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0023" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0024" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0025" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0026" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+	<SubTexture name="M AWOO2 Idle0027" x="386" y="220" width="366" height="200" frameX="0" frameY="0" frameWidth="369" frameHeight="200"/>
+</TextureAtlas>

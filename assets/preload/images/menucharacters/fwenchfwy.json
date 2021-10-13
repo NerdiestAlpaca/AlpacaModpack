@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Fwench Fwy Idle",
+	"idle_anim": "M Fwench Fwy Idle",
+	"position": [
+		10,
+		-30
+	],
+	"scale": 1.1,
+	"image": "Menu_FwenchFwy"
+}

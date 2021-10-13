@@ -1,0 +1,43 @@
+{
+	"storyName": "The Wish Dwagon",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"fwenchfwy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Wish",
+			"fwenchfwy",
+			[
+				255,
+				128,
+				0
+			]
+		],
+		[
+			"Purification",
+			"fwenchfwy",
+			[
+				255,
+				128,
+				0
+			]
+		],
+		[
+			"Chaos",
+			"fwyscream",
+			[
+				255,
+				88,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

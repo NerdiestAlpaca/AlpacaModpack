@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Celestia Idle",
+	"idle_anim": "M Celestia Idle",
+	"position": [
+		170,
+		15
+	],
+	"scale": 1,
+	"image": "Menu_Celestia"
+}

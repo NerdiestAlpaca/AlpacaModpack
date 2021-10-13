@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-16
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sweet Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-56
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sweet Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sweet Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-19
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sweet Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sweet Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Sweet Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				-16
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Sweet Left",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				34,
+				-19
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Sweet Right",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Sweet Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sweet",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "sweet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		200,
+		75
+	],
+	"camera_position": [
+		300,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

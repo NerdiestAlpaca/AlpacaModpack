@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="savannahportrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Savannah Idle0000" x="0" y="0" width="472" height="449" pivotX="363.75" pivotY="448.55"/>
+	<SubTexture name="Savannah Idle0001" x="0" y="0" width="472" height="449"/>
+	<SubTexture name="Savannah Idle0002" x="474" y="0" width="472" height="446" frameX="0" frameY="-3" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0003" x="474" y="0" width="472" height="446" frameX="0" frameY="-3" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0004" x="948" y="0" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0005" x="948" y="0" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0006" x="1419" y="0" width="471" height="437" frameX="0" frameY="-12" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0007" x="1419" y="0" width="471" height="437" frameX="0" frameY="-12" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0008" x="948" y="0" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0009" x="948" y="0" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0010" x="948" y="0" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0011" x="0" y="451" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0012" x="0" y="451" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0013" x="0" y="451" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+	<SubTexture name="Savannah Idle0014" x="0" y="451" width="469" height="443" frameX="0" frameY="-6" frameWidth="472" frameHeight="449"/>
+</TextureAtlas>

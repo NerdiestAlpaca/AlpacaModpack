@@ -1,0 +1,43 @@
+{
+	"storyName": "Besteth of the Besteth",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"delta1",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Forest",
+			"clover",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Dance",
+			"c-round",
+			[
+				246,
+				2,
+				69
+			]
+		],
+		[
+			"Rouxls",
+			"rouxls",
+			[
+				49,
+				11,
+				176
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Edie.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Edie Down0000" x="0" y="0" width="440" height="409" pivotX="300.1" pivotY="219.7" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0001" x="0" y="0" width="440" height="409" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0002" x="442" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0003" x="442" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0004" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0005" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0006" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0007" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0008" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0009" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0010" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0011" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0012" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Down0013" x="876" y="0" width="432" height="410" frameX="-8" frameY="-1" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="Edie Idle0000" x="1310" y="0" width="438" height="423" pivotX="298.85" pivotY="232.45" frameX="0" frameY="-2" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0001" x="1310" y="0" width="438" height="423" frameX="0" frameY="-2" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0002" x="1750" y="0" width="438" height="420" frameX="0" frameY="-5" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0003" x="1750" y="0" width="438" height="420" frameX="0" frameY="-5" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0004" x="2190" y="0" width="435" height="425" frameX="-3" frameY="0" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0005" x="2190" y="0" width="435" height="425" frameX="-3" frameY="0" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0006" x="2627" y="0" width="432" height="423" frameX="-6" frameY="-2" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0007" x="2627" y="0" width="432" height="423" frameX="-6" frameY="-2" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0008" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0009" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0010" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0011" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0012" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Idle0013" x="3061" y="0" width="438" height="422" frameX="0" frameY="-4" frameWidth="438" frameHeight="426"/>
+	<SubTexture name="Edie Left0000" x="3501" y="0" width="429" height="421" pivotX="292.85" pivotY="231.6" frameX="-3" frameY="-3" frameWidth="432" frameHeight="424"/>
+	<SubTexture name="Edie Left0001" x="3501" y="0" width="429" height="421" frameX="-3" frameY="-3" frameWidth="432" frameHeight="424"/>
+	<SubTexture name="Edie Left0002" x="0" y="427" width="432" height="422" frameX="0" frameY="-2" frameWidth="432" frameHeight="424"/>
+	<SubTexture name="Edie Left0003" x="0" y="427" width="432" height="422" frameX="0" frameY="-2" frameWidth="432" frameHeight="424"/>
+	<SubTexture name="Edie Left0004" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0005" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0006" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0007" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0008" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0009" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0010" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0011" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0012" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Left0013" x="434" y="427" width="432" height="424"/>
+	<SubTexture name="Edie Right0000" x="868" y="427" width="420" height="423" pivotX="281.55" pivotY="231.2" frameX="-1" frameY="0" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0001" x="868" y="427" width="420" height="423" frameX="-1" frameY="0" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0002" x="1290" y="427" width="419" height="421" frameX="-2" frameY="-1" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0003" x="1290" y="427" width="419" height="421" frameX="-2" frameY="-1" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0004" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0005" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0006" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0007" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0008" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0009" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0010" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0011" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0012" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Right0013" x="1711" y="427" width="421" height="420" frameX="0" frameY="-2" frameWidth="421" frameHeight="423"/>
+	<SubTexture name="Edie Up0000" x="2134" y="427" width="473" height="434" pivotX="333.5" pivotY="249.8" frameX="0" frameY="-3" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0001" x="2134" y="427" width="473" height="434" frameX="0" frameY="-3" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0002" x="2609" y="427" width="466" height="433" frameX="-7" frameY="-4" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0003" x="2609" y="427" width="466" height="433" frameX="-7" frameY="-4" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0004" x="3077" y="427" width="456" height="437" frameX="-17" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0005" x="3077" y="427" width="456" height="437" frameX="-17" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0006" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0007" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0008" x="3077" y="427" width="456" height="437" frameX="-17" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0009" x="3077" y="427" width="456" height="437" frameX="-17" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0010" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0011" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0012" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+	<SubTexture name="Edie Up0013" x="3535" y="427" width="466" height="437" frameX="-7" frameY="0" frameWidth="473" frameHeight="437"/>
+</TextureAtlas>

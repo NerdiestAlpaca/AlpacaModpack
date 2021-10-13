@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Edie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Edie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Edie Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Edie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Edie Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Edie",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "edie",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		197,
+		101
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

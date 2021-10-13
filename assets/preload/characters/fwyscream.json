@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fwench Fwy Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-6
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fwench Fwy Sing Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fwench Fwy Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fwench Fwy Sing Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Iscream Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				6
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Iscream Sing Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Iscream Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				4
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Iscream Sing Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fwyscream",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fwyscream",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		88,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

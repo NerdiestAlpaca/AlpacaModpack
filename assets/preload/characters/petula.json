@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Petula Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Petula Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Petula Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Petula Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Petula Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Petula LMad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Petula RMad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Petula DMad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				16
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Petula UMad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Petula",
+	"position": [
+		0,
+		302
+	],
+	"healthicon": "petula",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		146,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

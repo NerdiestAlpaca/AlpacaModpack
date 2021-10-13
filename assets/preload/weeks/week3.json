@@ -1,0 +1,43 @@
+{
+	"storyName": "Guest of Honor",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"awoo3",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dreamboat",
+			"austin",
+			[
+				102,
+				157,
+				204
+			]
+		],
+		[
+			"Primadonna",
+			"edie",
+			[
+				82,
+				197,
+				101
+			]
+		],
+		[
+			"Swerve On",
+			"bev",
+			[
+				102,
+				0,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

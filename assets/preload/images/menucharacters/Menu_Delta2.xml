@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Delta2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Delta2 Idle0000" x="0" y="0" width="413" height="402" frameX="0" frameY="0" frameWidth="418" frameHeight="404"/>
+	<SubTexture name="M Delta2 Idle0001" x="0" y="0" width="413" height="402" frameX="0" frameY="0" frameWidth="418" frameHeight="404"/>
+	<SubTexture name="M Delta2 Idle0002" x="433" y="0" width="413" height="402" frameX="0" frameY="0" frameWidth="418" frameHeight="404"/>
+	<SubTexture name="M Delta2 Idle0003" x="433" y="0" width="413" height="402" frameX="0" frameY="0" frameWidth="418" frameHeight="404"/>
+	<SubTexture name="M Delta2 Idle0004" x="866" y="0" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0005" x="1304" y="0" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0006" x="0" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0007" x="0" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0008" x="438" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0009" x="438" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0010" x="876" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0011" x="876" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0012" x="876" y="424" width="418" height="404"/>
+	<SubTexture name="M Delta2 Idle0013" x="876" y="424" width="418" height="404"/>
+</TextureAtlas>

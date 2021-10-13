@@ -1,0 +1,48 @@
+{
+	"storyName": "Royal Radiance",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Regal",
+			"celestia",
+			[
+				246,
+				113,
+				215
+			]
+		],
+		[
+			"Sundown",
+			"celestia",
+			[
+				246,
+				113,
+				215
+			]
+		],
+		[
+			"Infiltration",
+			"chrysalis",
+			[
+				20,
+				73,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"celestia",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 8"
+}

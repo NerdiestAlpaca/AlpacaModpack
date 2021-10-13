@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TasqueBack.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BattleBG0000" x="0" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0001" x="0" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0002" x="1610" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0003" x="1610" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0004" x="3220" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0005" x="3220" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0006" x="4830" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0007" x="4830" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0008" x="6440" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0009" x="6440" y="0" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0010" x="0" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0011" x="0" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0012" x="1610" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0013" x="1610" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0014" x="3220" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0015" x="3220" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0016" x="4830" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0017" x="4830" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0018" x="6440" y="1610" width="1600" height="1600"/>
+	<SubTexture name="BattleBG0019" x="6440" y="1610" width="1600" height="1600"/>
+</TextureAtlas>

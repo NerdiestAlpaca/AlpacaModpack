@@ -1,0 +1,43 @@
+{
+	"storyName": "Paw-Tucket",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"awoo1",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Satellite",
+			"savannah",
+			[
+				64,
+				56,
+				152
+			]
+		],
+		[
+			"Our World",
+			"quincy",
+			[
+				213,
+				115,
+				65
+			]
+		],
+		[
+			"Mischief",
+			"petula",
+			[
+				215,
+				146,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

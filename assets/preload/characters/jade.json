@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jade Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jade Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jade Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jade Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jade Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jade",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "jade",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		145,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

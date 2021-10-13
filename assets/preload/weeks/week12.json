@@ -1,0 +1,34 @@
+{
+	"storyName": "Monstrous Encounters",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week8",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"baphomet",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Monster",
+			"baphomet",
+			[
+				200,
+				0,
+				100
+			]
+		],
+		[
+			"Winter Horrorland",
+			"baphomet",
+			[
+				200,
+				0,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 9"
+}

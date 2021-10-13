@@ -1,0 +1,52 @@
+{
+	"storyName": "Fluff n' Tumble",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"paca",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Whimsy",
+			"alpaca",
+			[
+				255,
+				0,
+				84
+			]
+		],
+		[
+			"Cyclone",
+			"demon",
+			[
+				235,
+				20,
+				149
+			]
+		],
+		[
+			"Shadows",
+			"darkness",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"Absolution",
+			"final",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

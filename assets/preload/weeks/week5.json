@@ -1,0 +1,43 @@
+{
+	"storyName": "Rematch: Round 2",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week11",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"awoo2",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Free Spirit EX",
+			"roxie",
+			[
+				255,
+				204,
+				102
+			]
+		],
+		[
+			"Catnap EX",
+			"jade",
+			[
+				53,
+				145,
+				0
+			]
+		],
+		[
+			"Daredevil EX",
+			"trip",
+			[
+				255,
+				102,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 12"
+}

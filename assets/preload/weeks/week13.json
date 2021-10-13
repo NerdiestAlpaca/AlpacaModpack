@@ -1,0 +1,34 @@
+{
+	"storyName": "Bonus",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week9",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mario",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Antonymph",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Jump",
+			"mario",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 10"
+}

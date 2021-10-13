@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				-15
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Celestia Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-37
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Celestia Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				45
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Celestia Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Celestia Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Celestia Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Celestia Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				87,
+				-15
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Celestia Left",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Celestia Right",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				45
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Celestia Up",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-37
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Celestia Down",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/celestia_assets",
+	"position": [
+		-900,
+		-240
+	],
+	"healthicon": "celestia",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		113,
+		215
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Rematch: Guest of Honor",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week12",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"awoo3",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dreamboat EX",
+			"austin",
+			[
+				102,
+				157,
+				204
+			]
+		],
+		[
+			"Primadonna EX",
+			"edie",
+			[
+				82,
+				197,
+				101
+			]
+		],
+		[
+			"Swerve On EX",
+			"bev",
+			[
+				102,
+				0,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 13"
+}

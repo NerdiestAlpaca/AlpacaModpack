@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Virovirokun Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Virovirokun Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Virovirokun Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Virovirokun Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Virovirokun Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Virovirokun Idle"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Virovirokun Left"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Virovirokun Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Virovirokun Up",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Virovirokun",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "virovirokun",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		255
+	],
+	"camera_position": [
+		300,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

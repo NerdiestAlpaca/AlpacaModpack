@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Delta2 Idle",
+	"confirm_anim": "M Delta2 Idle",
+	"position": [
+		130,
+		25
+	],
+	"scale": 0.9,
+	"image": "Menu_Delta2"
+}
