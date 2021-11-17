@@ -65,9 +65,9 @@
 	"healthicon": "alpaca",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
+		204,
 		0,
-		84
+		51
 	],
 	"camera_position": [
 		0,

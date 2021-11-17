@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarkStar.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZeroBG0000" x="0" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0001" x="812" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0002" x="1624" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0003" x="2436" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0004" x="3248" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0005" x="4060" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0006" x="4872" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0007" x="5684" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0008" x="6496" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0009" x="7308" y="0" width="802" height="800"/>
+	<SubTexture name="ZeroBG0010" x="0" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0011" x="812" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0012" x="1624" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0013" x="2436" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0014" x="3248" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0015" x="4060" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0016" x="4872" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0017" x="5684" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0018" x="6496" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0019" x="7308" y="810" width="802" height="800"/>
+	<SubTexture name="ZeroBG0020" x="0" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0021" x="812" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0022" x="1624" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0023" x="2436" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0024" x="3248" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0025" x="4060" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0026" x="4872" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0027" x="5684" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0028" x="6496" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0029" x="7308" y="1620" width="802" height="800"/>
+	<SubTexture name="ZeroBG0030" x="0" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0031" x="812" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0032" x="1624" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0033" x="2436" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0034" x="3248" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0035" x="4060" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0036" x="4872" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0037" x="5684" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0038" x="6496" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0039" x="7308" y="2430" width="802" height="800"/>
+	<SubTexture name="ZeroBG0040" x="0" y="3240" width="802" height="800"/>
+	<SubTexture name="ZeroBG0041" x="812" y="3240" width="802" height="800"/>
+	<SubTexture name="ZeroBG0042" x="1624" y="3240" width="802" height="800"/>
+</TextureAtlas>

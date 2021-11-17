@@ -112,6 +112,8 @@ class PlayState extends MusicBeatState
 	public static var isPixelStage:Bool = false;
 	public static var SONG:SwagSong = null;
 	public static var isStoryMode:Bool = false;
+	public static var bfMode:String = '';
+	public static var specialScenario:String = 'funsize-hellpaca';
 	public static var storyWeek:Int = 0;
 	public static var storyPlaylist:Array<String> = [];
 	public static var storyDifficulty:Int = 1;
@@ -301,6 +303,8 @@ class PlayState extends MusicBeatState
 		#end
 
 		GameOverSubstate.resetVariables();
+		if (bfMode != 'bf')
+			GameOverSubstate.characterName = bfMode;
 		var songName:String = Paths.formatToSongPath(SONG.song);
 		curStage = PlayState.SONG.stage;
 		trace('stage is: ' + curStage);
@@ -309,11 +313,11 @@ class PlayState extends MusicBeatState
 			{
 				case 'spookeez' | 'south' | 'monster' | 'winter-horrorland':
 					curStage = 'spooky';
-				case 'pico' | 'blammed' | 'philly' | 'philly-nice':
+				case 'pico' | 'blammed' | 'philly' | 'philly-nice' | 'cutlass':
 					curStage = 'philly';
-				case 'milf' | 'satin-panties' | 'high':
+				case 'milf' | 'satin-panties' | 'high' | 'vip':
 					curStage = 'limo';
-				case 'cocoa' | 'eggnog':
+				case 'cocoa' | 'eggnog' | 'gingerbread':
 					curStage = 'mall';
 				case 'antonymph':
 					curStage = 'mallEvil';
@@ -339,10 +343,14 @@ class PlayState extends MusicBeatState
 					curStage = 'hell';
 				case 'absolution':
 					curStage = 'realityhole';
+				case 'armor':
+					curStage = 'tankIced';
 				case 'regal' | 'sundown' | 'infiltration' | 'madness':
     				curStage = 'stageAlt';
 				case 'cyber' | 'buster' | 'order' | 'forest' | 'dance' | 'rouxls':
 					curStage = 'deltarune';
+				case 'zero' | 'miracle' | 'hyper':
+					curStage = 'darkstar';
 				default:
 					curStage = 'stage';
 			}
@@ -530,7 +538,7 @@ class PlayState extends MusicBeatState
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
 				var bg:BGSprite = new BGSprite('christmas/evilBG', -400, -500, 0.2, 0.2);
-				bg.setGraphicSize(Std.int(bg.width * 0.8));
+				bg.setGraphicSize(Std.int(bg.width * 1));
 				bg.updateHitbox();
 				add(bg);
 
@@ -538,6 +546,7 @@ class PlayState extends MusicBeatState
 				add(evilTree);
 
 				var evilSnow:BGSprite = new BGSprite('christmas/evilSnow', -200, 700);
+				evilSnow.setGraphicSize(Std.int(evilSnow.width * 1.5));
 				add(evilSnow);
 
 			case 'school': //Week 6 - Senpai, Roses
@@ -736,14 +745,15 @@ class PlayState extends MusicBeatState
 						add(fire);
 					}
 				
-					var fg:BGSprite = new BGSprite('thirdphase/fg', -500, 150, 1, 1);
+					var fg:BGSprite = new BGSprite('thirdphase/fg', -500, 550, 1, 1);
 					fg.setGraphicSize(Std.int(fg.width * 1.67));
 					fg.updateHitbox();
 					add(fg);
 				
 				case 'realityhole':
+					if (bfMode == 'bf') {
 					GameOverSubstate.characterName = 'bf-final-dead';
-
+					}
 					var bg:BGSprite = new BGSprite('finale/bg', -800, -700, 0.45, 0.15, ['BG'], true);
 					bg.setGraphicSize(Std.int(bg.width * 4));
 					bg.updateHitbox();
@@ -803,6 +813,23 @@ class PlayState extends MusicBeatState
 			pico.animation.addByPrefix('hey', 'Pico Note Right0', 24, false);
 			pico.antialiasing = true;
 			add(pico);
+
+		case 'tankIced': //Week 7 (Armor)
+			var bg:BGSprite = new BGSprite('tank/iced', -550, -200, 0.3, 0.25);
+			bg.setGraphicSize(Std.int(bg.width * 1.7));
+			bg.updateHitbox();
+			add(bg);
+		
+			var fg:BGSprite = new BGSprite('tank/icyground', -670, 620, 0.3, 0.6);
+			fg.setGraphicSize(Std.int(fg.width * 1.7));
+			fg.updateHitbox();
+			add(fg);
+		
+		case 'darkstar': //Week 0
+			var bg:BGSprite = new BGSprite('DarkStar', -600, -200, 0.9, 0.9, ['ZeroBG'], true);
+			bg.setGraphicSize(Std.int(bg.width * 5));
+			bg.updateHitbox();
+			add(bg);
 		}
 		
 		add(gfGroup);
@@ -910,7 +937,16 @@ class PlayState extends MusicBeatState
 		dad.y += dad.positionArray[1];
 		dadGroup.add(dad);
 
-		boyfriend = new Boyfriend(BF_X, BF_Y, SONG.player1);
+		if (bfMode == 'bf') {
+			boyfriend = new Boyfriend(BF_X, BF_Y, SONG.player1);
+			}
+		else if (bfMode == 'alpaca-funsize' && curStage.startsWith('hell'))
+			boyfriend = new Boyfriend(BF_X, BF_Y, specialScenario);
+		else if (bfMode == 'alpaca-funsize' && curStage.startsWith('mallEvil'))
+			boyfriend = new Boyfriend(BF_X, BF_Y, specialScenario);
+		else {
+			boyfriend = new Boyfriend(BF_X, BF_Y, bfMode);
+			}
 		boyfriend.x += boyfriend.positionArray[0];
 		boyfriend.y += boyfriend.positionArray[1];
 		boyfriendGroup.add(boyfriend);

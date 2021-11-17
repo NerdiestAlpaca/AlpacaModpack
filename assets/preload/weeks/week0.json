@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Zero", "zero", [255, 0, 0]],
+		["Miracle", "zero", [255, 0, 0]],
+		["Hyper", "zero", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "zero",
+
+	"storyName": "?",
+	"weekBefore": "tutorial",
+	"weekName": "Week 0",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

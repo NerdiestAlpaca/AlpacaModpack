@@ -1,5 +1,5 @@
 {
-	"storyName": "Monstrous Encounters",
+	"storyName": "It's the Remix",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "week8",
@@ -11,21 +11,84 @@
 	],
 	"songs": [
 		[
+			"Rockstar",
+			"dad-remix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Trick or Treat",
+			"spooky-remix",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
 			"Monster",
 			"baphomet",
 			[
-				200,
-				0,
-				100
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Cutlass",
+			"pico-remix",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"VIP",
+			"mom-remix",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"Gingerbread",
+			"parents-remix",
+			[
+				160,
+				209,
+				255
 			]
 		],
 		[
 			"Winter Horrorland",
 			"baphomet",
 			[
-				200,
-				0,
-				100
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Stakeout",
+			"bf-remix",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Armor",
+			"tankman",
+			[
+				255,
+				175,
+				53
 			]
 		]
 	],
